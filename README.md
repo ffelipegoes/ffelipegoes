@@ -3,7 +3,7 @@ Olá, Me chamo Felipe Góes 👋
 
 - 🔭 A procura de oportunidades
 - 🌱 Atualmente cursando Sistemas para Internet na Fatec-SR
-- 📫 Contate-me no E-mil: goesfelipesantos@gmail.com
+- 📫 Contate-me no E-mail: goesfelipesantos@gmail.com
 
 ##
 
