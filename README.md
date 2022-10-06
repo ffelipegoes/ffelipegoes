@@ -1,7 +1,7 @@
 ### 
 Olá, Me chamo Felipe Góes 👋
 
-- 🔭 A procura de oportunidades
+- 🔭 Web Developer 
 - 🌱 Atualmente cursando Sistemas para Internet na Fatec-SR
 - 📫 Contate-me no E-mail: goesfelipesantos@gmail.com
 
