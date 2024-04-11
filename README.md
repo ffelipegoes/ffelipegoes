@@ -23,9 +23,12 @@ Olá, Me chamo Felipe Góes 👋
   <img alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Icon-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Icon-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="Icon-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img alt="Icon-Elementor" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elementor.svg">
 </div>
 
 ##
+
 
 
           
