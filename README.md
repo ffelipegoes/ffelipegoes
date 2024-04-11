@@ -1,11 +1,12 @@
 ### 
 Olá, Me chamo Felipe Góes 👋
 
-- 🔭 Web Developer 
+- 🔭 Desenvolvedor React e React Native
 - 🌱 Formado em Sistemas para Internet pela Fatec-SR
 - 📫 Contate-me no E-mail: goesfelipesantos@gmail.com
 
 ##
+
 
 <div>
   <a href="https://github.com/ffelipegoes">
@@ -31,11 +32,11 @@ Olá, Me chamo Felipe Góes 👋
 
 
           
-  <div> 
- <a href="https://instagram.com/goeszao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:goesfelipesantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fgsfelipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div> 
+  <a href="https://instagram.com/fe.goess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:goesfelipesantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fgsfelipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
            
           
