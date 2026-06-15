@@ -54,18 +54,6 @@ QA Automation em formação | React & React Native
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🧪 Testes E2E com Playwright
-Automação de testes end-to-end validando fluxos críticos de uma aplicação web.
-
-### 🧪 Testes com Cypress
-Criação de cenários automatizados para validação de funcionalidades.
-
-### 🔌 Testes de API
-Validação de endpoints com testes de status, estrutura de resposta e cenários de erro.
-
----
 
 ## 💼 Oportunidades
 
