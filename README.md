@@ -24,16 +24,6 @@ QA Automation em formação | React & React Native
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/ffelipegoes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ffelipegoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipegoes&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
----
 
 ## 🛠️ Tecnologias
 
